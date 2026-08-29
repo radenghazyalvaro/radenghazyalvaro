@@ -5,7 +5,7 @@
   
   <p>
     <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=flat-square" alt="Experience">
-    <img src="https://img.shields.io/badge/Specialization-Software%20Engineering%20@%20SMK%20Bakti%20Idhata-orange?style=flat-square" alt="Education">
+    <img src="https://img.shields.io/badge/Education-Graduate%20of%20SMK%20Bakti%20Idhata-orange?style=flat-square" alt="Education">
     <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-green?style=flat-square" alt="Status">
   </p>
 </div>
@@ -15,7 +15,7 @@
 ### 🚀 About Me
 I am a Software Engineer and Full-Stack Developer with strong proficiency in multiple programming languages. I have experience working both independently and collaboratively in team environments, demonstrating adaptability and a strong passion for learning new technologies.
 
-Currently pursuing a specialization in Software Engineering at **SMK Bakti Idhata**, I possess solid technical foundations combined with excellent communication, public relations, and presentation skills. Known for my ability to clearly convey technical concepts, I consistently deliver high-quality solutions and contribute effectively to every project I undertake.
+As a graduate specializing in Software Engineering from **SMK Bakti Idhata**, I possess solid technical foundations combined with excellent communication, public relations, and presentation skills. Known for my ability to clearly convey technical concepts, I consistently deliver high-quality solutions and contribute effectively to every project I undertake.
 
 * 💡 **Enthusiast in:** Blockchain & AI technologies.
 * 🏆 **Achievements:** 8 national gold medals in IT competitions.
@@ -49,6 +49,14 @@ Currently pursuing a specialization in Software Engineering at **SMK Bakti Idhat
 * <img src="https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2014/12/dicoding-header-logo.png" width="40" style="vertical-align: middle;" /> **Introduction to Financial Literacy** — *Dicoding Indonesia* (Mar 2026)
 * <img src="https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2014/12/dicoding-header-logo.png" width="40" style="vertical-align: middle;" /> **Belajar Dasar Pemrograman Web** — *Dicoding Indonesia* (May 2026)
 * <img src="https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2014/12/dicoding-header-logo.png" width="40" style="vertical-align: middle;" /> **Belajar Dasar Pemrograman JavaScript** — *Dicoding Indonesia* (May 2026)
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=radenghazyalvaro&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radenghazyalvaro&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
