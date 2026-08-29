@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://storage.schoolmedia.id/00-universal/smkbaktiidhata.sch.id/logo/679c4dbe7ef7eWhatsApp_Image_2025-01-31_at_10.57.33_AM-removebg-preview.png" width="90" alt="SMK Bakti Idhata Logo" />
   <h1>Hi there 👋, I'm Raden Hayfa Ghazy Alvaro</h1>
   <p><em>Software Engineer & Full-Stack Developer | CS Certified by Harvard</em></p>
   
@@ -29,6 +28,14 @@ As a graduate specializing in Software Engineering from **SMK Bakti Idhata**, I 
 | **Languages** | HTML, CSS, JavaScript, TypeScript, PHP, Python, C++, C# |
 | **Frameworks & Styling** | Tailwind CSS, Bootstrap, Laravel |
 | **Databases & Tools** | MySQL, phpMyAdmin, Git, Visual Studio, VS Code |
+
+---
+
+### 🎓 Education
+
+* <img src="https://storage.schoolmedia.id/00-universal/smkbaktiidhata.sch.id/logo/679c4dbe7ef7eWhatsApp_Image_2025-01-31_at_10.57.33_AM-removebg-preview.png" width="30" style="vertical-align: middle;" /> **SMK Bakti Idhata** — *Software Engineering (RPL)*
+  * Graduate
+  * Activities and societies: Gained strong foundations in programming and successfully created fully functional websites. Achieved eight national gold medals in IT competitions, proving competence, dedication, and a passion for technology and continuous innovation.
 
 ---
 
