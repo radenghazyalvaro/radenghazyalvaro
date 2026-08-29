@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://storage.schoolmedia.id/00-universal/smkbaktiidhata.sch.id/logo/679c4dbe7ef7eWhatsApp_Image_2025-01-31_at_10.57.33_AM-removebg-preview.png" width="90" alt="SMK Bakti Idhata Logo" />
   <h1>Hi there 👋, I'm Raden Hayfa Ghazy Alvaro</h1>
   <p><em>Software Engineer & Full-Stack Developer | CS Certified by Harvard</em></p>
   
@@ -43,11 +44,11 @@ Currently pursuing a specialization in Software Engineering at **SMK Bakti Idhat
 
 ### 📜 Licenses & Certifications
 
-* 🎓 **Introduction to Web Programming With Python and JavaScript** — *Harvard University* (Dec 2024)
-* 📜 **Spec-Driven Development dengan Kiro** — *Dicoding Indonesia* (Jun 2026)
-* 📜 **Introduction to Financial Literacy** — *Dicoding Indonesia* (Mar 2026)
-* 📜 **Belajar Dasar Pemrograman Web** — *Dicoding Indonesia* (May 2026)
-* 📜 **Belajar Dasar Pemrograman JavaScript** — *Dicoding Indonesia* (May 2026)
+* <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Harvard_University_coat_of_arms.svg" width="20" style="vertical-align: middle;" /> **Introduction to Web Programming With Python and JavaScript** — *Harvard University* (Dec 2024)
+* <img src="https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2014/12/dicoding-header-logo.png" width="40" style="vertical-align: middle;" /> **Spec-Driven Development dengan Kiro** — *Dicoding Indonesia* (Jun 2026)
+* <img src="https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2014/12/dicoding-header-logo.png" width="40" style="vertical-align: middle;" /> **Introduction to Financial Literacy** — *Dicoding Indonesia* (Mar 2026)
+* <img src="https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2014/12/dicoding-header-logo.png" width="40" style="vertical-align: middle;" /> **Belajar Dasar Pemrograman Web** — *Dicoding Indonesia* (May 2026)
+* <img src="https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2014/12/dicoding-header-logo.png" width="40" style="vertical-align: middle;" /> **Belajar Dasar Pemrograman JavaScript** — *Dicoding Indonesia* (May 2026)
 
 ---
 
@@ -61,3 +62,5 @@ Currently pursuing a specialization in Software Engineering at **SMK Bakti Idhat
 
 ### 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/raden-alvaro](https://www.linkedin.com/in/raden-alvaro)
+* **Instagram:** [@radenghazyalvaro](https://instagram.com/radenghazyalvaro)
+* **Email:** [radenghazyalvaro@gmail.com](mailto:radenghazyalvaro@gmail.com)
