@@ -60,14 +60,6 @@ As a graduate specializing in Software Engineering from **SMK Bakti Idhata**, he
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radenghazyalvaro&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radenghazyalvaro&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/raden-alvaro](https://www.linkedin.com/in/raden-alvaro)
 * **Instagram:** [@radenghazyalvaro](https://instagram.com/radenghazyalvaro)
