@@ -12,7 +12,9 @@
 ---
 
 ### 🚀 About Me
-Raden Hayfa Ghazy Alvaro is a Software Engineer and Full-Stack Developer proficient in multiple languages, including HTML, CSS, PHP, Python, JavaScript, TypeScript, C++, and C#. Experienced in both independent and collaborative environments, demonstrating high adaptability and a passion for emerging technologies.
+Raden Hayfa Ghazy Alvaro is a Software Engineer and Full-Stack Developer with strong proficiency in multiple programming languages, including HTML, CSS, PHP, Python, JavaScript, TypeScript, C++, and C#. He has experience working both independently and collaboratively in team environments, demonstrating adaptability and a strong passion for learning new technologies.
+
+As a graduate specializing in Software Engineering from SMK Bakti Idhata, he possesses solid technical foundations combined with excellent communication, public relations, and presentation skills. Known for his ability to clearly convey technical concepts, he consistently delivers high-quality solutions and contributes effectively to every project he undertakes.
 
 * 💡 **Core Interests:** Blockchain & AI integration.
 * 🏆 **Key Achievements:** 8 national gold medals in IT competitions.
@@ -55,14 +57,6 @@ Raden Hayfa Ghazy Alvaro is a Software Engineer and Full-Stack Developer profici
 * <img src="https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2014/12/dicoding-header-logo.png" width="40" style="vertical-align: middle;" /> **Introduction to Financial Literacy** — *Dicoding Indonesia* (Mar 2026 – Mar 2029) | `NVP7N86JVZR0`
 * <img src="https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2014/12/dicoding-header-logo.png" width="40" style="vertical-align: middle;" /> **Belajar Dasar Pemrograman Web** — *Dicoding Indonesia* (May 2026 – May 2029) | `4EXG13RN9PRL`
 * <img src="https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2014/12/dicoding-header-logo.png" width="40" style="vertical-align: middle;" /> **Belajar Dasar Pemrograman JavaScript** — *Dicoding Indonesia* (May 2026 – May 2029) | `2VX30V44VXYQ`
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radenghazyalvaro&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radenghazyalvaro&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 
