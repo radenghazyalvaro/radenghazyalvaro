@@ -23,11 +23,13 @@ As a graduate specializing in Software Engineering from SMK Bakti Idhata, he pos
 
 ### 🛠️ Tech Stack & Skills
 
-| Category | Technologies |
+| Category | Technologies / Skills |
 | :--- | :--- |
 | **Languages** | HTML, CSS, JavaScript, TypeScript, PHP, Python, C++, C# |
-| **Frameworks & Styling** | Tailwind CSS, Bootstrap, Laravel |
-| **Databases & Tools** | MySQL, phpMyAdmin, Git, Visual Studio, VS Code |
+| **Frontend Technologies** | React JS, Vue.js, Tailwind CSS, Bootstrap |
+| **Mobile & Backend Frameworks** | React Native, Laravel, Express.js |
+| **Databases** | MySQL |
+| **Tools & Environment** | phpMyAdmin, Git, Visual Studio, VS Code |
 | **Professional Skills** | Full-Stack Development, IT Consulting, Public Relations, Public Speaking |
 
 ---
