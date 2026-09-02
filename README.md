@@ -67,6 +67,6 @@ Currently pursuing a specialization in Software Engineering at SMK Bakti Idhata,
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/raden-alvaro](https://www.linkedin.com/in/raden-alvaro)[cite: 1]
+* **LinkedIn:** [linkedin.com/in/raden-alvaro](https://www.linkedin.com/in/raden-alvaro)
 * **Instagram:** [@radenghazyalvaro](https://instagram.com/radenghazyalvaro)
-* **Email:** [radenghazyalvaro@gmail.com](mailto:radenghazyalvaro@gmail.com)[cite: 1]
+* **Email:** [radenghazyalvaro@gmail.com](mailto:radenghazyalvaro@gmail.com)
